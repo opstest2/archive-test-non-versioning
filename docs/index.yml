@@ -1,0 +1,19 @@
+# YamlMime:Hub
+
+title: archive test
+summary: test Hub yaml
+
+productDirectory:
+  items:
+  - title: get-started
+    links:
+      - url: ./get-started/article1-1.md
+        text: What is Azure Stack Hub?
+  - title: install
+    links:
+      - url:  ./install/article2-1.md
+        text: What is Azure Stack Edge?
+  - title: test
+    links:
+      - url: ./to-be-archive/level1/article3-1-3.yml
+        text: Azure Stack HCI overview
