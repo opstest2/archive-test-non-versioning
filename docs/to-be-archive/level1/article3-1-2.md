@@ -26,4 +26,3 @@
 
 ## Step-by-step instructions
 ::: zone-end
->>>>>>> Stashed changes
