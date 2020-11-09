@@ -1,3 +1,7 @@
+---
+zone_pivot_groups: platform-dev16
+---
+
 ## test article 3 - 1 - 2
 
 
