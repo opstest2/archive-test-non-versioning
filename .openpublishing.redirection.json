@@ -1,0 +1,14 @@
+{
+  "redirections": [
+    {
+      "source_path": "docs/to-be-archive/level1/article3-1-1.md",
+      "redirect_url": "/archive/target/to-be-archive/level1/article3-1-1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/to-be-archive/level1/article3-1-2.md",
+      "redirect_url": "/archive/target/to-be-archive/level1/article3-1-2",
+      "redirect_document_id": false
+    }
+  ]
+}
